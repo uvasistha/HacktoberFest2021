@@ -12,7 +12,7 @@ Customers can pay via both cash and credit cards.
 
 * [Implementation](#tech)
    * [Runner File](#f1)
-   * [UML Diagrams](f2)
+   * [UML Diagrams](#f2)
    * [Test File](#f3)
    
 * [References](#ref)
