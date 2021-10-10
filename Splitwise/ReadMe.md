@@ -7,7 +7,7 @@ Add friends to account
 Mange transaction (cash etc modes)
 Group support
 Owed and Owes concept (show total/ user wise amount)
-Smart transaction within a group
+Smart transaction within a group--
 
 * [Implementation](#tech)
    * [Runner File](#f1)
